@@ -57,6 +57,7 @@
   <ItemGroup>
     <MetaPackagePackageReference Include="Microsoft.AspNetCore.Diagnostics" />
     <MetaPackagePackageReference Include="Microsoft.AspNetCore.Hosting" />
+    <MetaPackagePackageReference Include="Microsoft.AspNetCore.Identity" />
     <MetaPackagePackageReference Include="Microsoft.AspNetCore.Routing" />
     <MetaPackagePackageReference Include="Microsoft.AspNetCore.Server.IISIntegration" />
     <MetaPackagePackageReference Include="Microsoft.AspNetCore.Server.Kestrel" />
@@ -106,7 +107,6 @@
     <FullMetaPackagePackageReference Include="Microsoft.AspNetCore.Http.Extensions" />
     <FullMetaPackagePackageReference Include="Microsoft.AspNetCore.Http.Features" />
     <FullMetaPackagePackageReference Include="Microsoft.AspNetCore.HttpOverrides" />
-    <FullMetaPackagePackageReference Include="Microsoft.AspNetCore.Identity" />
     <FullMetaPackagePackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" />
     <FullMetaPackagePackageReference Include="Microsoft.AspNetCore.Identity.Service" />
     <FullMetaPackagePackageReference Include="Microsoft.AspNetCore.Identity.Service.Core" />
